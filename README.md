@@ -1,6 +1,7 @@
-# mcp_1.12.2
+# MCP for 1.12.2
 This is a MCP for version 1.12.2, i've done this so you don't have to :D<br/>
-#How to use:
+**MAKE SURE YOU HAVE ALREADY RUN MC VERSION 1.12.2 IN YOUR LAUNCHER BEFORE PRECEDING**<br/>
+How to use:
 1. go to https://github.com/Badbird-5907/mcp_1.12.2/releases/tag/1
 2. download the topmost zip file
 3. extract the zip file
